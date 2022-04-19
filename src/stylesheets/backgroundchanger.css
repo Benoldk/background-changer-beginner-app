@@ -21,8 +21,9 @@
 .color {
     width: 100%;
     height: 50px;
-    border: 3px solid rgba(255, 255, 255, 0.2);
+    border: 4px solid rgba(99, 97, 97, 0.5);
     border-radius: 3px;
+    box-shadow: 3px 3px 5px rgba(255, 255, 255, 0.5);
 }
 
 .color:hover {
